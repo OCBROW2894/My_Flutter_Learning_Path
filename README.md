@@ -7,5 +7,5 @@ Also Follow for more😁🤗.
 Use this link to watch the exact tutorial🔥🤗👇🏾.<br>
 https://youtu.be/x0uinJvhNxI
 
-<h2>#Topics flow</h2>
-Getting started<br>👇🏾<br>Basics<br>👇🏾<br>Debugging<br>👇🏾<br>More Widgets, Styling, App Logic<br>👇🏾<br>Responsive & Adaptive UIs<br>👇🏾<br>Widget & Flutter Internals<br>👇🏾<br>Navigation & Multiple Screens<br>👇🏾<br>State Management<br>👇🏾<br>User input & Forms<br>👇🏾<br>Sending Http Requests<br>👇🏾<br>User Authentication<br>👇🏾<br>Animations<br>👇🏾<br>Using Device features(Camera, Maps,...)<br>👇🏾<br>Running Native device Code<br>👇🏾<br>Publishing an App<br>👇🏾<br>Roundup & How To Develop Great apps😁🔥💯
+<h2>#Topics flow</h2><ul>
+Getting started<br>👇🏾<br>Basics<br>👇🏾<br>Debugging<br>👇🏾<br>More Widgets, Styling, App Logic<br>👇🏾<br>Responsive & Adaptive UIs<br>👇🏾<br>Widget & Flutter Internals<br>👇🏾<br>Navigation & Multiple Screens<br>👇🏾<br>State Management<br>👇🏾<br>User input & Forms<br>👇🏾<br>Sending Http Requests<br>👇🏾<br>User Authentication<br>👇🏾<br>Animations<br>👇🏾<br>Using Device features(Camera, Maps,...)<br>👇🏾<br>Running Native device Code<br>👇🏾<br>Publishing an App<br>👇🏾<br>Roundup & How To Develop Great apps😁🔥💯</ul>
